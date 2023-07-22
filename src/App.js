@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Agile is about Values and Principles
+          I have changed some codes.
         </a>
       </header>
     </div>
